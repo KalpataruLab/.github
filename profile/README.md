@@ -21,6 +21,17 @@ We build software and infrastructure that stays reliable under load, scales with
 - **Security assessment and protection:** We find vulnerabilities before attackers do and put practical safeguards in place, so you can innovate with confidence.
 - **Platform engineering:** We build internal platforms that give your developers a fast, consistent path to production, shortening the time from idea to customer.
 
+## Featured project: Edgeroute
+
+[**Edgeroute**](http://kalpatarulab.com/) is our open-source traffic router for Cloudflare Workers. It sends each incoming request to the right backend service based on its URL path, and you change the rules from a configuration file, with no redeploy and no downtime.
+
+- **Change routes instantly:** update routing in minutes instead of waiting for a release.
+- **Stay available:** spread traffic across several backends, fail over automatically, and stop sending requests to a struggling service.
+- **Protected by default:** signed requests, per-visitor rate limiting, and clear error responses.
+- **Fast at the edge:** runs close to your users and can cache responses.
+
+🔗 [Project site](http://kalpatarulab.com/) · [Source on GitHub](https://github.com/KalpataruLab/edgeroute)
+
 ## What you can expect
 
 - **Business outcomes first.** We start with your goals and recommend only what moves them forward.
