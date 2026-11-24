@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="KalpataruLab" width="420">
+</p>
+
 # Kalpataru Lab
 
 **AI and cloud expertise that helps your business move faster.**
